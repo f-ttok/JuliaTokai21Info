@@ -58,7 +58,7 @@ Note:
 + [ほりたみゅ](https://bsky.app/profile/hyrodium.bsky.social): Juliaと3Dプリント (モデリング編)
 + ごまふあざらし: [非英語圏における Julia ユーザのための技術](https://atelierarith.github.io/how2translate_julia_doc/)
 + dannchu:（タイトルお願いします）
-+ abap34:（タイトルお願いします、World Ageの話だったような）
++ abap34:最新 Julia コンパイラフロントエンド
 
 ---
 
